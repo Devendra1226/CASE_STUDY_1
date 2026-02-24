@@ -1,2 +1,2 @@
-# CASE_STUDY_3
+# CASE_STUDY_1
 Grocery-Billing-System_Devendra Bharti_202501100700186_B
